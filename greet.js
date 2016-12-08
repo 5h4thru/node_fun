@@ -4,5 +4,5 @@ var greet = function() {
     console.log("This is assigned to greet variable!");
 }
 
-// making greet variable available outside of this module
+// making variables available outside of this module
 module.exports = greet;
